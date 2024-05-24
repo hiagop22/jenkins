@@ -9,7 +9,7 @@ pipeline {
     stages{
         stage ("Inicial") {
             steps{
-                echo 'Iniciando a pipeline 2'
+                echo 'Iniciando a pipeline 0'
             }
         }
     }
